@@ -1,6 +1,6 @@
 # Public Datasets For Recommender Systems
 
-This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS). They are collected and tidied from Stack Overflow, articles, recommender sites and academic experiments. Most of the datasets presented here are free, having open sorce linceses, however, some are not and you need to ask permission to use or cite the authors' work. 
+This is a repository of a topic-centric public data sources in high quality for Recommender Systems (RS). They are collected and tidied from Stack Overflow, articles, recommender sites and academic experiments. Most of the datasets presented here are free, having open source licenses, however, some are not and you need to ask permission to use or cite the authors' work. 
 
 > In addition, this repository contains some pre-processed datasets with treatment for academic experiments.
 
